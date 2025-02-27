@@ -12,3 +12,5 @@ router.put('/usuario/:id', UsuarioController.actualizarUsuario);
 router.delete('/usuario/:id', UsuarioController.eliminarUsuario);
 
 router.get('/usuario2/:correo',UsuarioController.buscarUsuario);
+
+//que cambio
